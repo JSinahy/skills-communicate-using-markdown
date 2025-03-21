@@ -14,3 +14,7 @@ var testInvestigation = if(cont > 10) {
   30
 }
 ```
+
+- [ ] Turn on github page
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
